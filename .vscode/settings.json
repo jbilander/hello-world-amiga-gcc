@@ -1,0 +1,7 @@
+{
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false,
+  "terminal.integrated.env.linux": {
+    "PATH": "/opt/amiga/bin:${env:PATH}"
+  },
+}
