@@ -3,6 +3,10 @@ Amiga Hello World with Bebbo's amiga-gcc
 
 ![hello-world-amiga-gcc](https://github.com/jbilander/hello-world-amiga-gcc/assets/1673918/7c1ad178-1c0b-4311-b57e-7703e16a6031)
 
+
+![HelloWorldWB13](https://github.com/jbilander/hello-world-amiga-gcc/assets/1673918/1e0195c0-c0cb-4516-bd76-dc401b6460af)
+
+
 Steps I did to build amiga-gcc with gcc 13:
 
 Deleted old stuff:
