@@ -36,6 +36,7 @@ debug: $(DIR)/$(FILENAME)
 
 $(DIR)/$(FILENAME): $(DIR) $(OBJS)
 	$(CC) $(CFLAGS) -o $@ $(OBJS) $(LDFLAGS)
+	m68k-amigaos-objdump -D $(DIR)/$(FILENAME) > $(DIR)/$(FILENAME).s
 
 $(DIR):
 	mkdir $(DIR)
