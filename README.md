@@ -1,9 +1,7 @@
 # hello-world-amiga-gcc
-Amiga Hello World with Bebbo's amiga-gcc 13
+Amiga Hello World with Bebbo's amiga-gcc
 
-<a href="pics/visual-code-amiga-gcc.jpg">
-<img src="pics/visual-code-amiga-gcc.jpg" width="600" height="411">
-</a>
+![hello-world-amiga-gcc](https://github.com/jbilander/hello-world-amiga-gcc/assets/1673918/7c1ad178-1c0b-4311-b57e-7703e16a6031)
 
 Steps I did to build amiga-gcc with gcc 13:
 
